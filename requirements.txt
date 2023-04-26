@@ -3,7 +3,7 @@ bs4
 pandas
 plotly.express
 datetime
-nltk.sentiment.vader
+nltk
 requests
 
 
