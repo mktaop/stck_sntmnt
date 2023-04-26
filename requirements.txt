@@ -1,0 +1,9 @@
+streamlit
+bs4
+pandas
+plotly.express
+datetime
+Ntlk.sentiment.vader
+requests
+
+
